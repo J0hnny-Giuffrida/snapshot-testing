@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+    <h2>
+      TESTING SNAPSHOT
+    </h2>
+    <div
+      className="card"
+    >
+      <img
+        className="card-img-top"
+        src="public/logo192.png"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          J0hnny_Giuffrida
+        </div>
+        <p
+          className="card-text"
+        >
+          Inspiring Software Engineer from North Carolina.
+        </p>
+      </div>
+    </div>
+  </header>
+</div>
+`;
